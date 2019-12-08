@@ -36,7 +36,7 @@ will be price penalized.  The middle is unremarkable, but the bookends -- partic
 
 ### Notebooks
 
-* [Complete Code Walkthru](code/complete_code_walkthru .ipynb)
+* [Complete Code Walkthru](code/complete_code_walkthru.ipynb)
 * [Data Clean Up](code/data_clean_up.ipynb)
 * [Iteration 1:  Numerical Features](code/iter_1.ipynb)
 * [Iteration 2:  Categorical Features](code/iter_2.ipynb)
