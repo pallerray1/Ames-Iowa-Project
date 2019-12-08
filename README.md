@@ -1,6 +1,6 @@
 # Aimes, IA Housing Price Prediction Project
 
-### Raymond R. Paller,  DSI-US-9-CHI Chicago 
+### Raymond R. Paller,  DSI-US-9-CHI Chicago
 
 
 ### Problem Statement
@@ -30,7 +30,7 @@ Key points:
 floor, basement, and garage area square footages;  rooms and baths and their respective locations;  type and style of house;     outer masonry, if any;  and year built and year of last remodelings (if any).
 
 * Of supreme importance, the neighborhood location was of supreme importance.  This cannot be emphasized enough.  While living
-in an average neighborhood is price immaterial, a superior neighborhood will help enormously,  while a substandard neighborhood 
+in an average neighborhood is price immaterial, a superior neighborhood will help enormously,  while a substandard neighborhood
 will be price penalized.  The middle is unremarkable, but the bookends -- particularly the higher bookends -- carry considerable heft.
 
 
@@ -45,15 +45,4 @@ will be price penalized.  The middle is unremarkable, but the bookends -- partic
 * [Test Data](datasets/test.csv)
 * [Cleaned Up Data](datasets/cleaned_up_data.csv)
 * [Final Model Data Kaggle Submission](datasets/iter_3_submission.csv)
-* [Presentation Slides](Campaign to Project Prices.pdf)
-
-
-
-
-
-
-
-
-
-
-
+* [Presentation Slides](campaign_to_predict_prices.pdf)
